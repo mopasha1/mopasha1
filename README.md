@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Moiz Pasha</h1>  
   I'm Mohammed Moiz Pasha, a student at [SNIST](https://sreenidhi.edu.in). I love working on machine learning projects, building neural networks, and bug bounty in my spare time! I'm also interested in robotics, programming and pretty much anything related to technology :) 
 
-In my free time, I love [writing](https://hundred-words-or-less.blogspot.com/) articles on my findings in cybersecurity, reading books and playing chess. 
+In my free time, I love [writing](https://mopasha17.medium.com/) articles on my findings in cybersecurity, reading books and playing chess. 
 
 ## Roles
 - Intern, COE-Cybersecurity, JNTUH
